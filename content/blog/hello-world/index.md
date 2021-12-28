@@ -1,7 +1,7 @@
 ---
-title: Journey to Opensource
+title: priyanshu king
 date: "2021-12-25T22:12:03.284Z"
-description: "Opensource"
+description: "jack of all trade"
 ---
 
 This is my first post on my new blog! How exciting!
